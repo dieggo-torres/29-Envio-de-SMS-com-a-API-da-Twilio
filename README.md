@@ -1,0 +1,2 @@
+# [Intermediário] Envio de SMSs com a API da Twilio
+Este programa realiza o envio de SMSs por meio da API da Twilio, usando um número de teste fornecido pela própria Twilio. Caso você deseja testar este código, crie sua conta na Twilio e obtenha suas próprias credenciais.
