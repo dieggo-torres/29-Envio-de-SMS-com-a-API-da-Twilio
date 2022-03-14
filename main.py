@@ -1,5 +1,4 @@
 # Importação da biblioteca da Twilio
-from json import load
 from twilio.rest import Client
 
 # Importa a biblioteca os
