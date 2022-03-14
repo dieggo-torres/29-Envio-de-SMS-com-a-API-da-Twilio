@@ -1,0 +1,5 @@
+# Ignorar arquivo .env
+.env
+
+# Ignorar arquivo segredos.json
+segredos.json
